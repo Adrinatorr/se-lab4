@@ -1,0 +1,2 @@
+GT4500,1,0,1,0 #Létrehoz ey űrhajót 1-1 torpedóval, 0% hibaaránnyal
+TORPEDO,SINGLE #Tüzelés

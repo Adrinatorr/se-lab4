@@ -1,0 +1,2 @@
+SUCCESS #Hajó létrehozása
+SUCCESS #SINGLE Tüzelés
